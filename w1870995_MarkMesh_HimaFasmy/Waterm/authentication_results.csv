@@ -1,0 +1,4 @@
+Image Name,PSNR,SSIM,CC,Authentic
+extracted_from_watermarked_image_baboonsipi.png,40.5798498986178,0.9853733840100047,0.9997925238561032,Authentic
+extracted_from_watermarked_image_image01.png,31.80553212196463,0.9486563831166314,0.9984221534209844,Tampered
+extracted_from_watermarked_image_image11sipi.png,40.67810336878922,0.9848177512554965,0.9997975839672173,Authentic
